@@ -4,5 +4,5 @@
 
 ## Code:
 
- - [Fitting a Parametric Model To a Normal Distribution Code - 3.1](https://github.com/DarrahK/MMath-Code/blob/main/Gaus_Example.ipynb)
-- [Toy Circular Dynamics Example Code - 6.1.1](https://github.com/DarrahK/MMath-Code/blob/main/ODE_Toy_Example.ipynb)
+ - [3.1 - Fitting a Parametric Model To a Normal Distribution Code ](https://github.com/DarrahK/MMath-Code/blob/main/Gaus_Example.ipynb)
+- [6.1.1 - Toy Circular Dynamics Example Code](https://github.com/DarrahK/MMath-Code/blob/main/ODE_Toy_Example.ipynb)
