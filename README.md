@@ -5,4 +5,5 @@
 ## Code:
 
  - [3.1 - Fitting a Parametric Model To a Normal Distribution Code ](https://github.com/DarrahK/MMath-Code/blob/main/Gaus_Example.ipynb)
-- [6.1.1 - Toy Circular Dynamics Example Code](https://github.com/DarrahK/MMath-Code/blob/main/ODE_Toy_Example.ipynb)
+ - [4.2 - Fitting a Quadratic Polynomial Code](https://github.com/DarrahK/MMath-Code/blob/main/Quad_Poly_Example.ipynb) 
+ - [6.1.1 - Toy Circular Dynamics Example Code](https://github.com/DarrahK/MMath-Code/blob/main/ODE_Toy_Example.ipynb)
