@@ -13,7 +13,7 @@
  - [3.6 - Fitting a Quadratic Polynomial Code](https://github.com/DarrahK/MMath-Code/blob/main/Quad_Poly_Example.ipynb)
 : [Google Colab Link](https://colab.research.google.com/github/DarrahK/MMath-Code/blob/main/Quad_Poly_Example.ipynb)
 
-- [4.4 - Application of VAE to MNIST Dataset CODe](https://github.com/DarrahK/MMath-Code/blob/main/VAE_Applied_To_MNIST_Example.ipynb)
+- [4.4 - Application of VAE to MNIST Dataset Code](https://github.com/DarrahK/MMath-Code/blob/main/VAE_Applied_To_MNIST_Example.ipynb)
 : [Google Colab Link](https://colab.research.google.com/github/DarrahK/MMath-Code/blob/main/VAE_Applied_To_MNIST_Example.ipynb)
 
  - [5.1.1 - Toy Circular Dynamics Example Code](https://github.com/DarrahK/MMath-Code/blob/main/ODE_Toy_Example.ipynb)
