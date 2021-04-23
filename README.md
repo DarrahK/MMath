@@ -2,6 +2,8 @@
 
 **NOTE**: This code is just for experimentation/explanation purposes for my thesis only and is not intended to be a demonstration of my coding ability.
 
+If the code does not load on GitHub, use the Google Colab link.
+
 ## Code:
 
  - [2.1 - Fitting a Parametric Model To a Normal Distribution Code](https://github.com/DarrahK/MMath-Code/blob/main/Gaus_Example.ipynb)
