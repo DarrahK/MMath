@@ -1,8 +1,11 @@
 # MMath Thesis & Code
 
-**NOTE**: This code is just for experimentation/explanation purposes for my thesis only and is not intended to be a demonstration of my coding ability.
+## Thesis:
+- [MMath Thesis](https://github.com/DarrahK/MMath-Code/blob/main/MMath_Thesis.pdf)
 
 ## Code:
+
+**NOTE**: This code is just for experimentation/explanation purposes for my thesis only and is not intended to be a demonstration of my coding ability.
 
 - [2.1 - Fitting a Parametric Model To a Normal Distribution Code](https://github.com/DarrahK/MMath-Code/blob/main/Gaus_Example.ipynb)
 
